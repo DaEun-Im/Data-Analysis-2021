@@ -8,5 +8,13 @@
 profile_default/
 ipython_config.py
 
+# directory/
+exercise.ipynb 
+exercise2.ipynb
+kakaoapikey.txt 
+roadapikey.txt 
+chromedriver.exe
+
+
 # Remove previous ipynb_checkpoints
 #   git rm -r .ipynb_checkpoints/
